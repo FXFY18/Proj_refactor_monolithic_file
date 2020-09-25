@@ -1,6 +1,13 @@
+/*
+* constants.h
+* created: 9/25/2020
+* Author: Felix Phommachanh
+*
+*
+*/ 
 
-
-
+#ifndef CONSTANTS_H_
+#define CONSTANTS_H_
 
 
 //default files to read and write data

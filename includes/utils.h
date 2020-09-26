@@ -8,9 +8,11 @@
 #ifndef UTILS_H_
 #define UTILS_H_
 
-#include <vector>
-#include "constants.h"
 
+#include "constants.h"
+#include <vector>
+
+//std::vector<process>
 
 void sortData(const SORT_ORDER &mySortOrder,vector<process> &myProcesses);
 process getNext(vector<process> &myProcesses);

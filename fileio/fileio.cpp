@@ -4,7 +4,7 @@
 * Creator: Felix Phommachanh
 *
 */
-
+#include <iostream>
 #include "../includes/fileio.h"
 
 using namespace std;

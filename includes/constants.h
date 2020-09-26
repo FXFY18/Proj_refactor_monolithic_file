@@ -11,7 +11,6 @@
 
 #include <string>
 
-using namespace std;
 
 
 //default files to read and write data

@@ -12,7 +12,6 @@
 #include <string>
 
 
-
 //default files to read and write data
 const std::string SOURCE_FILE 	= "source_file.txt";
 const std::string RESULTS_FILE 	= "results_file.txt";

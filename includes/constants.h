@@ -9,6 +9,10 @@
 #ifndef CONSTANTS_H_
 #define CONSTANTS_H_
 
+#include <string>
+
+using namespace std;
+
 
 //default files to read and write data
 const std::string SOURCE_FILE 	= "source_file.txt";
